@@ -44,7 +44,7 @@ FSI · non-Newtonian rheology · particle transport
 Compressible CFD · valve-opening characterization
 </td>
 <td valign="top">
-<a href="https://albertobraso7.github.io/reactor/"><img src="https://albertobraso7.github.io/reactor/assets/streamlines-preview.webp" alt="Buoyant flow streamlines in a CVD tubular reactor"></a>
+<a href="https://albertobraso7.github.io/reactor/"><img src="https://albertobraso7.github.io/reactor/assets/streamlines-centered-preview.webp" alt="Buoyant flow streamlines in a CVD tubular reactor"></a>
 <b>CVD tubular reactor</b><br>
 Buoyant heat transfer · Re/Gr/Ri analysis · validation
 </td>
