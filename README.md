@@ -6,7 +6,7 @@ Experience across 30 professional projects in pumps, valves, thermal systems and
 **Tools:** Ansys Fluent · OpenFOAM · Python / PyFluent · Amesim · Linux / HPC
 **Based in Mexico** · open to international relocation
 
-[**Portfolio**](https://albertobraso7.github.io) · [**LinkedIn**](https://www.linkedin.com/in/alberto-braso7/) · [**CV (PDF)**](https://albertobraso7.github.io/assets/files/Alberto_Brambila_CV.pdf) · albertobraso7@gmail.com
+[**Portfolio**](https://albertobraso7.github.io) · [**LinkedIn**](https://www.linkedin.com/in/alberto-braso7/) · [**CV (PDF)**](https://albertobraso7.github.io/assets/files/Alberto_Brambila_CV.pdf) · [**Certifications**](https://albertobraso7.github.io/credentials/) · albertobraso7@gmail.com
 
 ---
 
